@@ -1,0 +1,2 @@
+git remote add origin https://github.com/tsierra187x/turbo-carnival.git
+git push -u origin main
